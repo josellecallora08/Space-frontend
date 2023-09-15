@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/josellecallora08/Space-frontend](https://github.com/josellecallora08/Space-frontend)
+- Live Site URL: [https://josellecallora08.github.io/Space-frontend/index.html](https://josellecallora08.github.io/Space-frontend/index.html)
 
 ## My process
 I did the Mobile-first workflow although, I do not know if I have made it the right way. But I still, I am happy that I keep learning and learning. Hoping I will be able to code perfectly clean.
